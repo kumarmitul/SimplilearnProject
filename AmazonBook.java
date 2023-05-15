@@ -17,9 +17,7 @@ Click on 'Go to Cart' button
 Verify the name of item
 Verify the quantity of item
 
-item = TIMEWEAR Analog Day Date Functioning Stainless Steel Chain Watch for Men
-
-span[contains(text(),'Analog Day Date Functioning Stainless Steel Chain Watch for Men')]
+item = LIFES AMAZING SECRETS
 
 */
 
